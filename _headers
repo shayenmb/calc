@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 /*
   X-Frame-Options: ALLOWALL
   Content-Security-Policy: frame-ancestors 'self' https://*.monday.com;
+=======
+
+/*
+  X-Frame-Options: ALLOWALL
+  Content-Security-Policy: frame-ancestors 'self' https://*.monday.com
+>>>>>>> 32870c550e8f40d0e3d32a92bc3551b082adba26
